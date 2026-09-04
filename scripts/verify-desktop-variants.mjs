@@ -23,6 +23,7 @@ const allowedDifferences = new Set([
   'product-identity.ts',
   'profile-manager.ts',
   'profile.ts',
+  'quick-ask.ts',
   'safe-mode.ts',
   'setup-wizard-contract.ts',
   'updates.ts',
